@@ -13,7 +13,7 @@ namespace sms
     public partial class teacher : System.Web.UI.Page
     {
         DataTable dt;
-
+//nnn
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!Page.IsPostBack)
